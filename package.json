@@ -1,0 +1,24 @@
+{
+  "name": "blogback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBussola/BlogBack.git"
+  },
+  "author": "Sandokam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBussola/BlogBack/issues"
+  },
+  "homepage": "https://github.com/SBussola/BlogBack#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
